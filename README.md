@@ -39,7 +39,7 @@ A demo is available [here](https://MaelDrapier.github.io/react-simple-snake).
 - `npm start`
 
 <br/>
-
+<br/>😋<br/>
 ## Dependencies
 This project needs [react](https://www.npmjs.com/package/react) to operate. Install it with `npm install react`
 
